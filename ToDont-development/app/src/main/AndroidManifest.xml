@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="rocks.poopjournal.Nghia.todont">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/as"
+        android:roundIcon="@drawable/as"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".About"></activity>
+        <activity android:name=".Settings" />
+        <activity android:name=".OnBoardingActivity" />
+        <activity android:name=".Labels" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ShopActivity" />
+        <activity android:name=".Splash_Screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

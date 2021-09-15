@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LightMode">Da non fare</string>
+    <string name="app_name">Da non fare</string>
+    <string name="avoided">Evitata</string>
+    <string name="habitswillshowuphere">Le abitudini verranno visualizzate qui.</string>
+    <string name="puthabit">Per iniziare, metti una cattiva abitudine</string>
+    <string name="addnewlabl">Aggiungi una nuova etichetta</string>
+    <string name="addlabl">Si prega di aggiungere prima un’etichetta</string>
+    <string name="leastav">Le meno evitate:</string>
+    <string name="mostav">Le più evitate:</string>
+    <string name="settings">Impostazioni</string>
+    <string name="labels">Etichette</string>
+    <string name="about">Informazioni</string>
+    <string name="log">Registro</string>
+    <string name="today">Oggi</string>
+    <string name="habits">Abitudini</string>
+    <string name="done">Finito</string>
+    <string name="text"> <a href="https://mail.google.com/mail/u/0/#search/arafaatqureshi%40gmail.com?compose=new"> Link</a> Ciao frammento vuoto</string>
+    <string name="hello_blank_fragment">Ciao frammento vuoto</string>
+    <string name="gnu">Licenza pubblica generale GNU CE</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="eclipse">Licenza pubblica Eclipse 1.0</string>
+    <string name="junit">JUnit</string>
+    <string name="mpandroidchart">MPAndroidChart</string>
+    <string name="circleimg">CircleImageView</string>
+    <string name="followsys">Secondo il sistema</string>
+    <string name="nobobutton">NoboButton</string>
+    <string name="materialspinner">MaterialSpinner</string>
+    <string name="jetpack">Android Jetpack</string>
+    <string name="mitlicence">Licenza MIT</string>
+    <string name="feather">Icone di piume</string>
+    <string name="appearance">Aspetto</string>
+    <string name="opensourcelicense">Licenze codice sorgente aperto</string>
+    <string name="source">Vedi il sorgente</string>
+    <string name="report">Segnala un problema</string>
+    <string name="translate">Traduci</string>
+    <string name="contribute">Contributore</string>
+    <string name="developer">Sviluppatore</string>
+    <string name="apachelicense">Licenza Apache 2.0</string>
+</resources>
